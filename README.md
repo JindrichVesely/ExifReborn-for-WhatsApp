@@ -29,3 +29,6 @@ On macOS, install via Homebrew:
 
 ```bash
 brew install exiftool
+
+
+chmod +x /path/to/ExifReborn.command
